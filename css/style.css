@@ -1,0 +1,8 @@
+h1{
+    color: #b00b69;
+    text-decoration: underline;
+}
+a {
+    color: rgb(23, 0, 226);
+    text-decoration: underline overline;
+}
